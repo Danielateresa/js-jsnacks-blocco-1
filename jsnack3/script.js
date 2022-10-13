@@ -15,7 +15,7 @@ console.log(sum); */
 //ciclo while
 
 let sum = 0;
-i = 0;
+let i = 0;
 while (i < 10) {
     const userNumbers = Number(prompt('inserisci un numero'));
     i++
@@ -26,5 +26,11 @@ while (i < 10) {
 
 
 
+/* while (i < movies.length) {
+    const movie = movies[i];
 
+    console.log(movie);
+
+    i++
+} */
 
